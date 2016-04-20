@@ -1,0 +1,16 @@
+<Configuration status="INFO" debug="true">
+   <Appenders>       
+      <Console name="Console" target="SYSTEM_OUT">
+      	<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+    	</Console>  
+        <File name="File" fileName="SoloveiGridAutotest.log">
+        <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+      	</File>     	  	
+      </Appenders>
+      <Loggers>
+        <Root level="trace">
+          <AppenderRef ref="File"/>
+          <AppenderRef ref="Console"/>
+        </Root>
+      </Loggers>
+</Configuration>

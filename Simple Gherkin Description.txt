@@ -1,0 +1,6 @@
+Feature: Check the search snippet header
+
+	 Scenario: Given Open page by url “https://www.google.ru” in browser
+	  	   Given Type to serch input “adsterra”
+	 	   When Press button search
+		   Then Header search snippet “1” text equals “Adsterra”

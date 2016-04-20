@@ -1,0 +1,87 @@
+16:07:10.995 [main] ERROR solovei.grid.SeleniumGrid - Page wasn't reached
+16:09:42.981 [main] ERROR solovei.grid.SeleniumGrid - Page wasn't reached
+16:10:52.900 [main] ERROR solovei.grid.SeleniumGrid - Page wasn't reached
+16:11:40.426 [main] ERROR solovei.grid.SeleniumGrid - Page wasn't reached
+16:20:21.632 [main] ERROR solovei.grid.SeleniumGrid - Page wasn't reached
+16:20:37.534 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+16:21:03.834 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+16:22:49.875 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+16:25:45.151 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+16:26:02.819 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+16:53:06.873 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+16:53:08.270 [main] ERROR solovei.grid.SeleniumGrid - Not equals!
+16:53:08.270 [main] TRACE solovei.grid.SeleniumGrid - First header text isAdsterra: Home
+16:53:08.270 [main] TRACE solovei.grid.SeleniumGrid - Parameter to match isAdsterra
+16:54:07.668 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+16:54:09.054 [main] ERROR solovei.grid.SeleniumGrid - The text doesn't equal.
+16:54:09.054 [main] TRACE solovei.grid.SeleniumGrid - First header text is Adsterra: Home
+16:54:09.054 [main] TRACE solovei.grid.SeleniumGrid - Parameter to match is Adsterra
+16:55:21.258 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+16:55:22.290 [main] ERROR solovei.grid.SeleniumGrid - The text doesn't equal.
+16:55:22.290 [main] INFO  solovei.grid.SeleniumGrid - First header text is: Adsterra: Home
+16:55:22.290 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: Adsterra
+16:56:05.131 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+16:56:06.384 [main] ERROR solovei.grid.SeleniumGrid - The header text doesn't equal to the parameter.
+16:56:06.385 [main] INFO  solovei.grid.SeleniumGrid - First header text is: Adsterra: Home
+16:56:06.385 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: Adsterra
+17:24:32.139 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+17:24:33.616 [main] ERROR solovei.grid.SeleniumGrid - The header text doesn't equal to the parameter.
+17:24:33.616 [main] INFO  solovei.grid.SeleniumGrid - First header text is: "Adsterra: Home"
+17:24:33.616 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: Adsterra
+17:25:01.411 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+17:25:02.884 [main] ERROR solovei.grid.SeleniumGrid - The header text doesn't equal to the parameter.
+17:25:02.884 [main] INFO  solovei.grid.SeleniumGrid - First header text is: "Adsterra: Home"
+17:25:02.884 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: "Adsterra"
+18:51:33.864 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+18:51:35.066 [main] ERROR solovei.grid.SeleniumGrid - The header text doesn't equal to the parameter.
+18:51:35.067 [main] INFO  solovei.grid.SeleniumGrid - First header text is: "Adsterra: Home"
+18:51:35.067 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: "Adsterra"
+17:42:45.550 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+17:42:51.515 [main] ERROR solovei.grid.SeleniumGrid - The header text doesn't equal to the parameter
+17:42:51.515 [main] INFO  solovei.grid.SeleniumGrid - First header text is: "Adsterra: Home"
+17:42:51.515 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: "Adsterra"
+10:27:17.865 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+10:27:23.451 [main] ERROR solovei.grid.SeleniumGrid - The header text doesn't equal to the parameter
+10:27:23.451 [main] INFO  solovei.grid.SeleniumGrid - First header text is: "Adsterra: Home"
+10:27:23.451 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: "null"
+10:29:18.424 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+10:29:20.232 [main] ERROR solovei.grid.SeleniumGrid - The header text doesn't equal to the parameter
+10:29:20.232 [main] INFO  solovei.grid.SeleniumGrid - First header text is: "Adsterra: Home"
+10:29:20.232 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: "Adsterra"
+10:29:41.846 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+10:29:42.969 [main] ERROR solovei.grid.SeleniumGrid - The header text doesn't equal to the parameter
+10:29:42.969 [main] INFO  solovei.grid.SeleniumGrid - First header text is: "Adsterra: Home"
+10:29:42.969 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: "Adsterra"
+10:38:07.652 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+10:38:09.078 [main] ERROR solovei.grid.SeleniumGrid - The header text doesn't equal to the parameter
+10:38:09.078 [main] INFO  solovei.grid.SeleniumGrid - First header text is: "Adsterra: Home"
+10:38:09.078 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: "Adsterra"
+10:38:54.494 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+10:38:55.570 [main] ERROR solovei.grid.SeleniumGrid - The header text doesn't equal to the parameter
+10:38:55.570 [main] INFO  solovei.grid.SeleniumGrid - First header text is: "Adsterra: Home"
+10:38:55.570 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: "Adsterra"
+10:38:56.434 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+10:38:57.290 [main] ERROR solovei.grid.SeleniumGrid - The header text doesn't equal to the parameter
+10:38:57.290 [main] INFO  solovei.grid.SeleniumGrid - First header text is: "Adsterra: Home"
+10:38:57.290 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: "Adsterra"
+10:39:32.596 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+10:39:34.050 [main] ERROR solovei.grid.SeleniumGrid - The header text doesn't equal to the parameter
+10:39:34.050 [main] INFO  solovei.grid.SeleniumGrid - First header text is: "Adsterra: Home"
+10:39:34.050 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: "Adsterra"
+10:39:35.091 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+10:39:35.965 [main] ERROR solovei.grid.SeleniumGrid - The header text doesn't equal to the parameter
+10:39:35.966 [main] INFO  solovei.grid.SeleniumGrid - First header text is: "Adsterra: Home"
+10:39:35.966 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: "Adsterra"
+10:42:00.515 [main] TRACE solovei.grid.SeleniumGrid - Page reached
+10:42:02.143 [main] ERROR solovei.grid.SeleniumGrid - The header text doesn't equal to the parameter
+10:42:02.143 [main] INFO  solovei.grid.SeleniumGrid - First header text is: "Adsterra: Home"
+10:42:02.143 [main] INFO  solovei.grid.SeleniumGrid - Parameter to match is: "Adsterra"
+11:05:27.936 [main] TRACE solovei.grid.SeleniumGridTestNG - Page reached
+11:05:29.599 [main] ERROR solovei.grid.SeleniumGridTestNG - The header text doesn't equal to the parameter
+11:05:29.599 [main] INFO  solovei.grid.SeleniumGridTestNG - First header text is: "Adsterra: Home"
+11:05:29.599 [main] INFO  solovei.grid.SeleniumGridTestNG - Parameter to match is: "Adsterra"
+11:51:32.895 [main] TRACE solovei.grid.SeleniumGridTestNG - Page reached
+12:01:44.057 [main] TRACE solovei.grid.SeleniumGridTestNG - Page reached
+12:01:47.120 [main] ERROR solovei.grid.SeleniumGridTestNG - The header text doesn't equal to the parameter
+12:01:47.120 [main] INFO  solovei.grid.SeleniumGridTestNG - First header text is: "Adsterra: Home"
+12:01:47.120 [main] INFO  solovei.grid.SeleniumGridTestNG - Parameter to match is: "Adsterra"

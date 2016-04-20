@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41592" started-at="2016-04-20T09:01:06Z" finished-at="2016-04-20T09:01:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41592" started-at="2016-04-20T09:01:06Z" finished-at="2016-04-20T09:01:48Z">
+      <class name="solovei.grid.SeleniumGridTestNG">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:solovei.grid.SeleniumGridTestNG@b1cc93]" name="setUp" is-config="true" duration-ms="25743" started-at="2016-04-20T12:01:06Z" finished-at="2016-04-20T12:01:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testFirefox()[pri:0, instance:solovei.grid.SeleniumGridTestNG@b1cc93]" name="testFirefox" duration-ms="14665" started-at="2016-04-20T12:01:32Z" finished-at="2016-04-20T12:01:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFirefox -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:solovei.grid.SeleniumGridTestNG@b1cc93]" name="afterTest" is-config="true" duration-ms="1047" started-at="2016-04-20T12:01:47Z" finished-at="2016-04-20T12:01:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- solovei.grid.SeleniumGridTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
